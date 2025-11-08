@@ -53,6 +53,9 @@ Contient l’interface du service et son implémentation concrète :
 |---------------------------|----------------------------------|
 | ![](./captures/authorized.png) | ![](./captures/not-authorized.png) |
 
+| Diagramme de Classe |
+|---------------------------|
+| ![](./captures/diagramme.png) |
 ---
 
 ## 🚀 Comment Exécuter
